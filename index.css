@@ -1,0 +1,38 @@
+p{
+    color:aqua;
+    padding-left: 500px;
+    font-size: 90px;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: rgb(75, 64, 3);
+}
+#img{
+    position: relative;
+    width: 50%;
+padding-top: 25%;
+}
+h2{
+    color: chocolate ;
+}
+#p2{
+    font-size: 50px;
+    padding-left: 500px;
+}
+#img1{
+    position: relative;
+    width: 50%;
+padding-top: 25%;
+}
+#img2{
+    position: relative;
+    width: 50%;
+padding-top: 25%;
+}
+#img{
+    position: relative;
+    width: 50%;
+padding-top: 25%;
+}
